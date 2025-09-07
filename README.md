@@ -11,6 +11,7 @@ So to cope up with all of those problems this app is designed which would prove 
 * To help out the poor and helpless people with the normal medical checkup.
 * To help people avoid paying huge amount to the doctors unnecessarily.
 * To extend the role of the technology in the medical field.
+* 
 
 <hr>
 <h3> Down below are the names of the various model files used:</h3>
